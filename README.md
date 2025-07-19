@@ -1,59 +1,81 @@
-# 💫 About Me
-🚀 Hi there! I'm **Manish Singh**, a passionate learner exploring **Data Structures & Algorithms** and **Web Development**.
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Manish Singh</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | DSA & Web Dev Enthusiast | Lifelong Learner</h3>
 
-- 🎓 Pursuing **B.Tech in Computer Science** from *Birla Institute of Technology, Mesra*
-- 📈 Current SGPA (end of 4th semester): **8.92**
-- 👨‍💻 Regularly solving problems on **LeetCode**, **CodeChef**, and **Codeforces** to strengthen logical thinking and problem-solving skills
-- 🌱 Always learning, always coding—whether it's debugging tricky code or building something new on the web
-- 💡 I believe every bug fixed and every idea implemented brings me closer to becoming a better developer
-
----
-
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/singh.manish._/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishsingh5616/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhmanish5616@gmail.com)
+<p align="center">
+  <a href="mailto:singhmanish5616@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/manishsingh5616/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/singh.manish._/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white"></a>
+</p>
 
 ---
 
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=plastic&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
+### 🧠 About Me
+
+- 🎓 **B.Tech CSE** @ Birla Institute of Technology, Mesra  
+- 💡 I thrive at the intersection of **algorithms**, **logic**, and **real-world web solutions**
+- 🧩 Passionate about solving problems on **LeetCode**, **Codeforces**, and **CodeChef**
+- 🛠️ Currently working on full-stack web projects with **MERN stack**, **Cloud hosting**, and **APIs**
+- 📈 SGPA after 4th semester: **8.92**  
+- ⚡ Fun fact: I debug with a playlist and coffee ☕
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ManishSingh5616&theme=moltack&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=ManishSingh5616&theme=moltack&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishSingh5616&theme=moltack&hide_border=false&layout=compact)
+### 🚀 Tech Stack
+
+**Languages**  
+`C` `C++` `Java` `JavaScript` `HTML` `CSS`
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend / DB**  
+![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+
+**DevOps / Hosting**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-### ✍️ Quote for Devs
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishSingh5616&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishSingh5616&theme=react&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishSingh5616&layout=compact&theme=react&hide_border=true" width="48%" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ManishSingh5616&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🛠️ Projects I'm Proud Of
 
-<!-- Created using GPRM (https://gprm.itsvg.in) -->
+- **Cloud-drive**
+
+---
+
+### 📬 Let's Connect
+
+Got ideas, collaboration, or just want to chat tech?  
+**DM me on LinkedIn or drop an email** → I’d love to connect and build cool stuff together!
+
+---
+
+### 🧠 Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ManishSingh5616&icon=2&color=12" />
+</p>
