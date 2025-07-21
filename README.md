@@ -50,9 +50,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManishSingh5616&show_icons=true&theme=react&hide_border=true" width="48%" />
- <img src="https://streak-stats.demolab.com/?user=ManishSingh5616&theme=react&hide_border=true&v=2" />
 </p>
-![GitHub Streak](https://streak-stats.demolab.com/?user=ManishSingh5616&theme=react&hide_border=true&v=1)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ManishSingh5616&theme=react&hide_border=true&v=2" width="48%" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishSingh5616&layout=compact&theme=react&hide_border=true" width="48%" />
 </p>
