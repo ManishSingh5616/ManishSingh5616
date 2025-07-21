@@ -78,5 +78,5 @@ Got ideas, collaboration, or just want to chat tech?
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ManishSingh5616&icon=2&color=12" />
+  <img src="https://komarev.com/ghpvc/?username=ManishSingh5616&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
