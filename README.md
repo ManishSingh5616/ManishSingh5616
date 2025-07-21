@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManishSingh5616&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://img.shields.io/badge/GitHub%20Streak-100%2B%20days-success?logo=github&style=flat" />
+ <img src="https://streak-stats.demolab.com/?user=ManishSingh5616&theme=react&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishSingh5616&layout=compact&theme=react&hide_border=true" width="48%" />
