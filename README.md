@@ -61,6 +61,7 @@
 ### 🛠️ Projects I'm Proud Of
 
 - **Cloud-drive**
+- **LinguiX Translator**
 
 ---
 
