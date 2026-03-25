@@ -16,7 +16,7 @@
 - 💡 I thrive at the intersection of **algorithms**, **logic**, and **real-world web solutions**
 - 🧩 Passionate about solving problems on **LeetCode**, **Codeforces**, and **CodeChef**
 - 🛠️ Currently working on full-stack web projects with **MERN stack**, **Cloud hosting**, and **APIs**
-- 📈 SGPA after 4th semester: **8.95**  
+- 📈 SGPA after 5th semester: **8.95**  
 - ⚡ Fun fact: I debug with a playlist and coffee ☕
 
 ---
